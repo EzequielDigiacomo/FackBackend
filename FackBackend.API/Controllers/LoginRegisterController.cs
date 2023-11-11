@@ -1,5 +1,5 @@
-﻿using Controladora.FacBackend.DTOs;
-using Controladora.FacBackend.Services;
+﻿using Controladora.FacBackend.DTOs.Login;
+using Controladora.FacBackend.Services.LoginServices;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

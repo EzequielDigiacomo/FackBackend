@@ -1,5 +1,5 @@
 ﻿using AccesoDatos.FacBackend;
-using Controladora.FacBackend.DTOs;
+using Controladora.FacBackend.DTOs.Login;
 using Entidades.FacBackend;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

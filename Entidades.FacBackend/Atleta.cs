@@ -36,5 +36,7 @@ namespace Entidades.FacBackend
         public virtual PadreDeAtleta PadreAtleta { get; set; }
         public virtual TutorDeAtleta TutorAtleta { get; set; }
 
+        
+
     }
 }

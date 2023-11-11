@@ -1,5 +1,5 @@
 ﻿using AccesoDatos.FacBackend;
-using Controladora.FacBackend.DTOs;
+using Controladora.FacBackend.DTOs.Login;
 using Entidades.FacBackend;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace Controladora.FacBackend.Services
+namespace Controladora.FacBackend.Services.LoginServices
 {
     public class LoginRegisterServices : ILoginRegisterServices
     {

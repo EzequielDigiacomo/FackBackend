@@ -1,6 +1,6 @@
-﻿using Controladora.FacBackend.DTOs;
+﻿using Controladora.FacBackend.DTOs.Login;
 
-namespace Controladora.FacBackend.Services
+namespace Controladora.FacBackend.Services.LoginServices
 {
     public interface ILoginRegisterServices
     {
